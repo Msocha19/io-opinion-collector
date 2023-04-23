@@ -26,7 +26,7 @@ Szczegółowy opis odpowiedzialności modułów można znaleźć w [prezentacji 
 |-|-|-|
 |Moduł zarządzania produktami|[Bartłomiej Czajkowski](https://github.com/AverageCoffeeEnjoyer)|[Jan Rubacha](https://github.com/Firedog01)|
 |Moduł kategorii|[Klaudia Hołonowicz](https://github.com/alice4book)|[Stanisław Jarecki](https://github.com/StanislawJ2)|
-|Moduł użytkowników|[Rafał Strzałkowski](https://github.com/rstrzalkowski)|[Mateusz Sochacki](https://github.com/236652)|
+|Moduł użytkowników|[Rafał Strzałkowski](https://github.com/rstrzalkowski)|[Mateusz Sochacki](https://github.com/Msocha19)|
 |Moduł opinii|[Łukasz Stępień](https://github.com/Lukasz0104)|Tomasz Lesiak|
 |Moduł katalogu produktów oraz pytań i odpowiedzi|[Jakub Marszał](https://github.com/jcoby99)|[Mateusz Dargiel](https://github.com/Remuluson2)|
 |Moduł obsługi zdarzeń|[Świędrych Szymon](https://github.com/S1NU5-P1)|[Bartosz Drągowski](https://github.com/bortok1)|
